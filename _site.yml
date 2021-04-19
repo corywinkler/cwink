@@ -4,13 +4,13 @@ navbar:
   title: "Cory Winkler"
 left:
   - text: "Home"
-href: index.html
+    href: index.html
   - text: "Project"
-href: project.html
+    href: project.html
   - text: "About"
-href: about.html
+    href: about.html
 
 output:
   html_document:
-  theme: simplex
-highlight: textmate
+    theme: simplex
+    highlight: textmate
